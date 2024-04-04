@@ -1,0 +1,15 @@
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\Anoeye-Game-Launcher.exe
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\Anoeye-Game-Launcher.deps.json
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\Anoeye-Game-Launcher.runtimeconfig.json
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\Anoeye-Game-Launcher.dll
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\Anoeye-Game-Launcher.pdb
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.csproj.AssemblyReference.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.AssemblyInfoInputs.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.AssemblyInfo.cs
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.csproj.CoreCompileInputs.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.dll
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\refint\Anoeye-Game-Launcher.dll
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.pdb
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\Anoeye-Game-Launcher.genruntimeconfig.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\ref\Anoeye-Game-Launcher.dll

@@ -1,0 +1,15 @@
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.csproj.AssemblyReference.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.AssemblyInfoInputs.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.AssemblyInfo.cs
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.csproj.CoreCompileInputs.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\EdvinLauncher.exe
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\EdvinLauncher.deps.json
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\EdvinLauncher.runtimeconfig.json
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\EdvinLauncher.dll
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\bin\Debug\net7.0\EdvinLauncher.pdb
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.dll
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\refint\EdvinLauncher.dll
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.pdb
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\EdvinLauncher.genruntimeconfig.cache
+C:\Users\BreitenbaEd\source\repos\EdvinLauncher\EdvinLauncher\obj\Debug\net7.0\ref\EdvinLauncher.dll
