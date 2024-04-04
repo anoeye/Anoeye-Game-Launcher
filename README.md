@@ -6,3 +6,4 @@ It has the following games:
 <br>Hangman
 
 This is only for Testing Purpose if you want you can test this if you don't then just doesn't try it xD
+It will probably crash when you go to screens that arent finished but its in beta!
