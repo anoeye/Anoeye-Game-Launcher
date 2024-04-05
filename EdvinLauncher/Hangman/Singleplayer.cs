@@ -79,7 +79,7 @@ namespace AnoeyeLauncher.Hangman
             Console.ResetColor();
             Console.Clear();
 
-            //Multiplayer Game Loop
+            //Singleplayer Game Loop
 
 
 
@@ -121,7 +121,15 @@ namespace AnoeyeLauncher.Hangman
                 }
 
 
-
+                if(0 == hearts)
+                {
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine($"                    __                  _ \r\n/\\_/\\___  _   _    / /  ___  ___  ___  / \\\r\n\\_ _/ _ \\| | | |  / /  / _ \\/ __|/ _ \\/  /\r\n / \\ (_) | |_| | / /__| (_) \\__ \\  __/\\_/ \r\n \\_/\\___/ \\__,_| \\____/\\___/|___/\\___\\/   \r\n                                          {Environment.NewLine}");
+                    Console.WriteLine($"{Environment.NewLine}" + "CPU has won the round");
+                    Console.ResetColor();
+                    break;
+                }
                 if (0 >= hearts)
                 {
 

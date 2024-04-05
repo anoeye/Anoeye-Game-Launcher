@@ -12,7 +12,7 @@ namespace AnoeyeLauncher.NIM
 
         public static void NIMStart()
         {
-
+            Console.Clear();
             NIMAscii("");
             Launcher.SelectionOption("1", "", "Singleplayer");
             Launcher.SelectionOption("2", "", "Multiplayer");
@@ -30,6 +30,9 @@ namespace AnoeyeLauncher.NIM
                     break;
                 case 'q':
                     Launcher.Main();
+                    break;
+                default:
+                    NIM.NIMStart();
                     break;
             }
 

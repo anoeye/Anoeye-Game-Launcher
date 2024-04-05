@@ -1,4 +1,5 @@
 ﻿using AnoeyeLauncher.aMatrix;
+using AnoeyeLauncher.Changelog;
 using AnoeyeLauncher.Hangman;
 using AnoeyeLauncher.NIM;
 using System;
@@ -15,6 +16,7 @@ namespace index
             //HeadLine
             Console.Clear();
             Console.SetWindowSize(82, 15);
+            VersionNumber("");
             Headline("");
             Console.Write("\n");
             SelectionOption("1", "", " NIM-Game");
@@ -23,7 +25,6 @@ namespace index
             SelectionOption("Q", "", " Exit\n");
 
             SelectionOption("#", "", "Changelog");
-            SelectionOption("*", "", "Credits");
             Console.ForegroundColor = ConsoleColor.Gray;
             switch (Console.ReadKey().KeyChar)
             {
@@ -38,6 +39,17 @@ namespace index
                 case '3':
                     Console.Clear();
                     aMatrix.AMatrix();
+                    break;
+                case '#':
+                    Console.Clear();
+                    Changelog.ChangelogStart();
+                    break;
+                case 'Q':
+                    break;
+                case 'q':
+                    break;
+                default:
+                    Launcher.Main();
                     break;
             }
 
@@ -129,6 +141,13 @@ namespace index
                     return false;
                 }
             }
+        }
+
+        public static void VersionNumber(string version)
+        {
+            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine("ver. 0.2 beta");
+            Console.ResetColor();
         }
 
     }

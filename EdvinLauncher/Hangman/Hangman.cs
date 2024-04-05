@@ -12,7 +12,7 @@ namespace AnoeyeLauncher.Hangman
 
         public static void HangMan()
         {
-
+            Console.Clear();
             HangmanAscii("");
             Launcher.SelectionOption("1", "", " Singleplayer");
             Launcher.SelectionOption("2", "", " Multiplayer");
@@ -30,6 +30,9 @@ namespace AnoeyeLauncher.Hangman
                     break;
                 case 'q':
                     Launcher.Main();
+                    break;
+                default:
+                    Hangman.HangMan();
                     break;
             }
 
